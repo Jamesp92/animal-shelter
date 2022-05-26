@@ -16,3 +16,21 @@ margin:auto;
 
 
 }
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+.column {
+  width: 250px;
+  display: inline;
+
+}
+
+.container {
+  border: 2px green solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
