@@ -25,6 +25,14 @@ img {
 .column {
   width: 250px;
   display: inline;
+  color: aqua;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: black;
+  border:4px cornflowerblue solid;
+  padding:10px;
+  margin:20px;
+
+
 
 }
 
